@@ -1,1 +1,4 @@
-# vite_and_json
+# JavaScript Learning Notes
+
+- Vite
+- JSON
